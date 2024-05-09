@@ -10,7 +10,6 @@ import matplotlib.pyplot as plt
 
 from sklearn.svm import SVC
 from sklearn.preprocessing import StandardScaler
-from sklearn.preprocessing import StandardScaler
 
 
 def plot_svc_decision_boundary(svm_clf, xmin, xmax):
